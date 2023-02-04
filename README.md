@@ -1,2 +1,2 @@
 # Blank-Canvas
-Our team is developing a game centered on Ommetaphobia, or the dread of seeing. 
+Our team is currently working on a game centered on Ommetaphobia, or the dread of seeing. The story of the game will follow a narrator who worked with a visual medium but developed Ommetaphobia and learnt to live with it. The player will feel the narrator's first panic and uncertainty through gameplay and narrative, and will learn how they overcame their nervousness and learnt to navigate their surroundings using other senses. The goal is to develop a narrative that allows the player to identify with the blind character while also sending a hopeful message that conquering Ommetaphobia and living a full life is achievable.
